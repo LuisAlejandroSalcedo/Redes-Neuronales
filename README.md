@@ -28,3 +28,8 @@ Clasificación de imágenes,
 Creación de Chatbots,
 Reconocimiento óptico de caracteres,
 Y mucho más.
+
+## [Perceptron](https://github.com/LuisAlejandroSalcedo/Redes-Neuronales/blob/master/Perceptron.py)
+## [Back-Propagation Neural Network](https://github.com/LuisAlejandroSalcedo/Redes-Neuronales/blob/master/bpnn.py)
+## [Convolution Neuronal Network](https://github.com/LuisAlejandroSalcedo/Redes-Neuronales/blob/master/convolution_neural_network.py)
+
